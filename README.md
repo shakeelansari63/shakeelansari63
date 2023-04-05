@@ -25,7 +25,7 @@ I'm Shakeel, a passionate software developer with over 10 years of experience. M
 ### 📫 How to reach me:
 
 - Email: shakeelansari63@gmail.com
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/shakeelansari63/)
+- LinkedIn: [https://www.linkedin.com/in/shakeelansari63](https://www.linkedin.com/in/shakeelansari63/)
 - GitHub: [https://github.com/shakeelansari63](https://github.com/shakeelansari63)
 
 Thanks for stopping by!
