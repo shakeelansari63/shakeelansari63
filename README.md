@@ -2,7 +2,7 @@
 
 ## Hey there 👋
 
-I'm Shakeel, a passionate software developer with over 10 years of experience. My areas of expertise include data engineering, data platform design and web development.
+I'm Shakeel, a passionate software engineer with over 10 years of experience. My areas of expertise include data engineering, data platform design and web development.
 
 ### 💻 Technologies I work with:
 
