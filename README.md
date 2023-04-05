@@ -1,16 +1,31 @@
-### Hi there 👋
+# Shakeel Ansari
 
-<!--
-**shakeelansari63/shakeelansari63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there 👋
 
-Here are some ideas to get you started:
+I'm Shakeel, a passionate software developer with over 10 years of experience. My areas of expertise include data engineering, data platform design and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies I work with:
+
+- **Cloud:** Azure, AWS
+- **Data:** SQL, Pyspark
+- **Data-Paltform:** Azure Synapse, Databricks, Hadoop, Teradata, Airflow, Jupyterhub
+- **Front-end:** HTML, CSS, JavaScript, Angular
+- **Back-end:** Python, C# .Net
+
+### 🌟 My strengths:
+
+- Ability to learn new technologies quickly
+- Strong problem-solving skills
+- Attention to detail
+- Excellent communication and collaboration skills
+
+### 📚 What I'm currently learning:
+- Machine Learning
+
+### 📫 How to reach me:
+
+- Email: shakeelansari63@gmail.com
+- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/shakeelansari63/)
+- GitHub: [https://github.com/shakeelansari63](https://github.com/shakeelansari63)
+
+Thanks for stopping by!
